@@ -18,3 +18,5 @@ class King extends Character implements KingSignature {
     return `${super.comunicate()}Vais a morir todos`;
   }
 }
+
+export default King;
